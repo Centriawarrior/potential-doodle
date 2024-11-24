@@ -1,5 +1,11 @@
 # Logbook
 
+Link to first report: https://github.com/Centriawarrior/potential-doodle/blob/main/Registration_page_first_test.md
+
+Eliminated input handling vulnerabilities like Path Traversal and SQL Injection etc.
+
+Link to second report: https://github.com/Centriawarrior/potential-doodle/blob/main/Registration_page_second_test.md
+
 | Date       | Used hours |                       Subject(s)                        |                                 output                                  |
 | :--------- | :--------: | :-----------------------------------------------------: | :---------------------------------------------------------------------: |
 | 30.10.2024 |     2      |              lecture 1 → Kick-off lecture               |           Watched lecture and explored Itslearning materials            |
