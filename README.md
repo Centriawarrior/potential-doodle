@@ -1,11 +1,5 @@
+
 # Logbook
-
-Link to first report: https://github.com/Centriawarrior/potential-doodle/blob/main/Registration_page_first_test.md
-
-Eliminated input handling vulnerabilities like Path Traversal and SQL Injection etc.
-
-Link to second report: https://github.com/Centriawarrior/potential-doodle/blob/main/Registration_page_second_test.md
-
 | Date       | Used hours |                       Subject(s)                        |                                 output                                  |
 | :--------- | :--------: | :-----------------------------------------------------: | :---------------------------------------------------------------------: |
 | 30.10.2024 |     2      |              lecture 1 → Kick-off lecture               |           Watched lecture and explored Itslearning materials            |
@@ -24,3 +18,30 @@ Link to second report: https://github.com/Centriawarrior/potential-doodle/blob/m
 | 16.11.2024 |     3      |                 Booking system phase 1                  |        Downloaded Docker and Deno. Created structure for phase 1        |
 | 18.11.2024 |     2      |            lecture 4 → The project continues            |               Watched lecture and went through assignment               |
 | 24.11.2024 |     2      |              Booking system phase 1 final               | Fixed issues with zap and registrations with the help of lecture videos |
+| 25.11.2024  |     4      | lecture 5 |          Watched lecture and brainstormed ideas for index and login pages with AI   |
+| 26.11.2024  |     2      | Continued project |          Ran first tests with Zap and analyzed alerts           |
+| 26.11.2024  |     2      | more Portswigger labs |          Completed 3 more labs           |
+| 01.12.2024  |     3      | week 4 homework |         Modified booking system until passed without errors and returned logbook           |
+
+# Weekly breakdown about project
+## Week 3:
+Link to first report: https://github.com/Centriawarrior/potential-doodle/blob/main/Registration_page_first_test.md
+
+Eliminated input handling vulnerabilities like Path Traversal and SQL Injection etc.
+
+Link to the second report: https://github.com/Centriawarrior/potential-doodle/blob/main/Registration_page_second_test.md
+
+## Week 4:
+Link to the first report before knowing about potential errors:
+https://github.com/Centriawarrior/potential-doodle/blob/main/index-login-registration-first-test.md
+
+What has been done between reports: 
+Enhanced Security:
+   - Added implements like `Content-Security-Policy`, `X-Frame-Options`, and `X-Content-Type-Options` to protect against clickjacking and MIME sniffing.
+Better Routing:
+   - Explicit routing logic for `GET` and `POST` requests across multiple endpoints (`/`, `/register`, `/login`), enhancing readability and scalability.
+Middleware Introduction:
+   - Global middleware (`addSecurityHeaders`) centralizes security measures, ensuring all responses are protected.
+
+Link to the second report after fixing errors:
+https://github.com/Centriawarrior/potential-doodle/blob/main/index-login-registration-second-test.md)
