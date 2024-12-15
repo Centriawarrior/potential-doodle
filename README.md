@@ -1,29 +1,43 @@
 # Logbook
 
-| Date       | Used hours |                       Subject(s)                        |                                     output                                      |
-| :--------- | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------: |
-| 30.10.2024 |     2      |              lecture 1 → Kick-off lecture               |               Watched lecture and explored Itslearning materials                |
-| 31.10.2024 |     1      |        Exercise: Link to the Git repo + Logbook         |                            Added link to Itslearning                            |
-| 31.10.2024 |     1      | My knowledge check and cisco course navigation tutorial |                              Passed test with 79%                               |
-| 1.11.2024  |     1      |         Module 1: Introduction to Cybersecurity         |                               Passed Module quiz                                |
-| 4.11.2024  |     2      | lecture 2 → Introduction to the PortSwigger environment |              Watched lecture and registered account to Portswigger              |
-| 6.11.2024  |     1      |         Module 2: Introduction to Cybersecurity         |                               Passed Module quiz                                |
-| 6.11.2024  |     1      |         Module 3: Introduction to Cybersecurity         |                               Passed Module quiz                                |
-| 7.11.2024  |     1      |         Module 4: Introduction to Cybersecurity         |                               Passed Module quiz                                |
-| 7.11.2024  |     1      |         Module 5: Introduction to Cybersecurity         |                               Passed Module quiz                                |
-| 7.11.2024  |     2      |                    Course Final Exam                    |                           Passed Final Exam with 97%                            |
-| 10.11.2024 |     2      |                       Portswigger                       |        Explored the environment and got motivated to study and pass labs        |
-| 11.11.2024 |     2      |            lecture 3 → Starting the project             |               Watched lecture and brainstormed ideas for project                |
-| 12.11.2024 |     1      |                 Portswigger first labs                  |                      Solved first 3 APPRENTICE level labs                       |
-| 16.11.2024 |     3      |                 Booking system phase 1                  |            Downloaded Docker and Deno. Created structure for phase 1            |
-| 18.11.2024 |     2      |            lecture 4 → The project continues            |                   Watched lecture and went through assignment                   |
-| 24.11.2024 |     2      |              Booking system phase 1 final               |     Fixed issues with zap and registrations with the help of lecture videos     |
-| 25.11.2024 |     4      |                        lecture 5                        |    Watched lecture and brainstormed ideas for index and login pages with AI     |
-| 26.11.2024 |     2      |                    Continued project                    |                  Ran first tests with Zap and analyzed alerts                   |
-| 26.11.2024 |     2      |                  more Portswigger labs                  |                              Completed 3 more labs                              |
-| 01.12.2024 |     3      |                     week 4 homework                     |    Modified booking system until passed without errors and returned logbook     |
-| 03.12.2024 |     4      |          week 5 homework and more portswigger           |        Performed wider report of system and did more labs in portswigger        |
-| 08.12.2024 |     2      |                         week 5                          | Wrote whats wrong based on zap report with system and pushed code to the github |
+| Date       | Used hours |                               Subject(s)                               |                                                                output                                                                |
+| :--------- | :--------: | :--------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+| 30.10.2024 |     2      |                      lecture 1 → Kick-off lecture                      |                                          Watched lecture and explored Itslearning materials                                          |
+| 31.10.2024 |     2      |                Exercise: Link to the Git repo + Logbook                |                                                      Added link to Itslearning                                                       |
+| 1.11.2024  |     2      |                Module 1: Introduction to Cybersecurity                 |                                                          Passed Module quiz                                                          |
+| 4.11.2024  |     2      |                 Lecture 2: Introduction to PortSwigger                 |                                          Watched lecture, registered account on PortSwigger                                          |
+| 6.11.2024  |     2      |                Module 2: Introduction to Cybersecurity                 |                                                          Passed Module quiz                                                          |
+| 6.11.2024  |     1      |                Module 3: Introduction to Cybersecurity                 |                                                          Passed Module quiz                                                          |
+| 7.11.2024  |     4      |              Module 4 & 5: Introduction to Cybersecurity               |                                                   Passed Module quizzes for 4 & 5                                                    |
+| 7.11.2024  |     2      |                           Course Final Exam                            |                                                      Passed Final Exam with 97%                                                      |
+| 10.11.2024 |     2      |                              PortSwigger                               |                                        Explored environment, motivated to study and pass labs                                        |
+| 11.11.2024 |     3      |                    Lecture 3: Starting the Project                     |                                             Watched lecture, brainstormed project ideas                                              |
+| 12.11.2024 |     1      |                         PortSwigger First Labs                         |                                                 Solved first 3 APPRENTICE level labs                                                 |
+| 15.11.2024 |     1      |                      Study: Cybersecurity Basics                       |                                        Reviewed fundamental cybersecurity concepts and tools                                         |
+| 16.11.2024 |     5      |                   Booking System Phase 1 & Lecture 4                   |                 Downloaded Docker and Deno, created structure for Phase 1; watched lecture, went through assignment                  |
+| 17.11.2024 |     1      |                   Study: PortSwigger Lab Techniques                    |                                   Studied techniques for solving PortSwigger labs more efficiently                                   |
+| 18.11.2024 |     2      |                    Lecture 4: The Project Continues                    |                                               Watched lecture, went through assignment                                               |
+| 19.11.2024 |     1      |                  Study: Vulnerability Scanning Tools                   |                                     Learned more about vulnerability scanning and best practices                                     |
+| 21.11.2024 |     1      |                      Study: Web Security Overview                      |                                   Went over common web security vulnerabilities (SQLi, XSS, etc.)                                    |
+| 23.11.2024 |     1      |                   Study: Ethical Hacking Strategies                    |                                       Focused on ethical hacking methodologies and tool usage                                        |
+| 24.11.2024 |     2      |                      Booking System Phase 1 Final                      |                                       Fixed issues with zap, registrations with lecture videos                                       |
+| 25.11.2024 |     5      |         Lecture and Study: Exploitation Techniques & Lecture 5         | Reviewed exploitation techniques using Metasploit and other tools; watched lecture, brainstormed ideas for index/login pages with AI |
+| 26.11.2024 |     4      |               Continued Project & More PortSwigger Labs                |                                   Ran first tests with Zap, analyzed alerts; completed 3 more labs                                   |
+| 27.11.2024 |     1      |                        Study: Threat Modelling                         |                                      Studied techniques for threat modelling and risk analysis                                       |
+| 29.11.2024 |     1      |                Study: Web Application Firewalls (WAFs)                 |                                           Focused on the purpose and functionality of WAFs                                           |
+| 1.12.2024  |     4      |               Study: Network Security & Week 4 Homework                |  Reviewed basic network security concepts (firewalls, encryption); modified booking system, passed without errors, returned logbook  |
+| 4.12.2024  |     5      |         Lecture and Study: Incident Response & Week 5 Homework         |        Learned about steps in incident response and handling breaches; performed system report, did more labs in PortSwigger         |
+| 5.12.2024  |     1      |                    Study: Penetration Testing Tools                    |                                    Studied tools like Burp Suite and Nmap for penetration testing                                    |
+| 7.12.2024  |     1      |                      Study: Cybersecurity Ethics                       |                                  Reviewed ethical considerations and legal aspects in cybersecurity                                  |
+| 8.12.2024  |     2      |                                 Week 5                                 |                                       Wrote issues based on Zap report, pushed code to GitHub                                        |
+| 9.12.2024  |     4      |   Study: Advanced Web Security Techniques & Debugging Booking System   |                 Studied advanced techniques for securing web applications; debugged errors, improved error handling                  |
+| 10.12.2024 |     4      |          PortSwigger Labs - Advanced & Booking System Phase 2          |                        Solved more advanced PortSwigger labs; implemented user authentication and login flow                         |
+| 11.12.2024 |     4      |        Lecture and Study: SIEM Systems & Booking System Phase 2        |          Reviewed Security Information and Event Management (SIEM) systems; implemented user authentication and login flow           |
+| 12.12.2024 |     4      |                 Study: Cryptography Basics & Lecture 6                 |                    Studied basic encryption and decryption methods; watched lecture on advanced security concepts                    |
+| 13.12.2024 |     3      | Study: Incident Handling Protocols & Finalizing Booking System Phase 2 |        Focused on handling incidents with formal protocols and workflows; fixed bugs, added logging and monitoring for errors        |
+| 14.12.2024 |     3      |                    Project Review and Documentation                    |                                               Reviewed project, updated documentation                                                |
+| 15.12.2024 |     3      |     Study: Incident Handling Protocols & Final Project Adjustments     |     Focused on handling incidents with formal protocols and workflows; final adjustments to project and preparing for submission     |
+| 16.12.2024 |     2      |                       Final Project Adjustments                        |                                      Final adjustments to project and preparing for submission                                       |
 
 # Weekly breakdown about project
 
@@ -122,3 +136,12 @@ Based on the ZAP report, five most critical points to address in booking system:
 1. Prioritize addressing the **Format String Error** and **XSS vulnerabilities**, as these could directly enable attacks.
 2. Implement proper cookie management and session token handling to mitigate data leakage risks.
 3. Conduct a review of the codebase to remove sensitive comments and improve adherence to secure coding standards.
+
+## Week 6:
+
+Our system does not use consent (except for accepting the terms of service, but this is a slightly different matter).
+Is this good?
+Not using user consent can raise ethical and legal concerns, depending on the nature of the data collected or processed. Consent ensures transparency, user control, and compliance with privacy laws like GDPR or CCPA. Without consent, users may not feel confident about how their information is used, potentially undermining trust. However, if the system does not collect personal data beyond what is essential (e.g., terms of service acceptance), omitting additional consent might simplify user experience. Balancing compliance, transparency, and usability is key.
+
+Choose an example page where consent is required. Tell us which one you chose. Tell us why consent is required?
+The registration page requires consent because users must agree to the terms of service before creating an account. Consent is required here because the terms outline the rules for using the system, responsibilities, and rights of both the user and provider. Accepting the terms ensures users are aware of what they are agreeing to before proceeding. This helps prevent misuse and legal disputes, ensuring users actively acknowledge and agree to the conditions for accessing the system.
