@@ -1,5 +1,7 @@
 # Logbook
 
+## Here I document how much time I use and to what
+
 | Date       | Used hours |                             Subject(s)                             |                                                                output                                                                |
 | :--------- | :--------: | :----------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
 | 30.10.2024 |     2      |                    lecture 1 → Kick-off lecture                    |                                          Watched lecture and explored Itslearning materials                                          |
