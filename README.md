@@ -1,6 +1,8 @@
 # The Booking system project
 
-## [Here](https://github.com/Centriawarrior/potential-doodle/blob/main/Documentation.pdf) you can see documentation about the structure of the system, ZAP penetration testing etc.
+[Here](https://github.com/Centriawarrior/potential-doodle/blob/main/Documentation.pdf) you can see documentation about the structure of the system, ZAP penetration testing etc.
+
+[And here](https://github.com/Centriawarrior/potential-doodle/blob/main/logbook.md) you can see logbook about my used hours
 
 ## Screenshots of each page that is currently available to users:
 
